@@ -1,3 +1,5 @@
+package Part1;
+
 public class QueueStack {
     private LinkedListQueue queue1 = new LinkedListQueue();
     private LinkedListQueue queue2 = new LinkedListQueue();

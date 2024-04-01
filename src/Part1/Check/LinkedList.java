@@ -1,4 +1,4 @@
-package Check;
+package Part1.Check;
 
 public class LinkedList{
 

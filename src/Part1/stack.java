@@ -1,3 +1,5 @@
+package Part1;
+
 import java.util.Arrays;
 
 public class stack {

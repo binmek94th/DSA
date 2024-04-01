@@ -1,3 +1,5 @@
+package Part1;
+
 public class TwoStacks {
     int[] stack = new int[6];
 

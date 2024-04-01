@@ -1,3 +1,4 @@
+package Part1;
 
 public class LinkedListExercise {
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {

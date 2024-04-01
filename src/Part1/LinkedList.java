@@ -1,3 +1,5 @@
+package Part1;
+
 import java.util.NoSuchElementException;
 
 public class LinkedList {

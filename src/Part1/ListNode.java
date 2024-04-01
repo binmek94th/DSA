@@ -1,4 +1,4 @@
-import java.util.List;
+package Part1;
 
 public class ListNode {
     int val;

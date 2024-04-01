@@ -1,3 +1,5 @@
+package Part1;
+
 public class StackQueue {
     stack first = new stack();
     stack second = new stack();

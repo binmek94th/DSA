@@ -1,5 +1,6 @@
+package Part1;
+
 import java.util.ArrayList;
-import java.util.Arrays;
 
 public class Array {
     int count = 0;

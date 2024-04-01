@@ -1,3 +1,5 @@
+package Part1;
+
 public class LinkedListQueue {
     //enqueue
     //dequeue
